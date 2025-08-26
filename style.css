@@ -1,0 +1,17 @@
+h1 {
+    color: #2edeeb;
+    font-family: "Comic Relief";
+}
+
+#box {
+    border: 0.1rem solid;
+    height: 5rem;
+    width: 10rem;
+    background-color: aquamarine;
+    position: relative;
+    top: 0vh;
+    text-align: start;
+}
+div{
+    font-size: 10%;
+}
