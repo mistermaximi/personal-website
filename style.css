@@ -1,17 +1,32 @@
 h1 {
-    color: #2edeeb;
+    color: #000000;
     font-family: "Comic Relief";
 }
 
 #box {
     border: 0.1rem solid;
-    height: 5rem;
-    width: 10rem;
-    background-color: aquamarine;
-    position: relative;
+    height: 26rem;
+    width: 75;
+    background-image: url(20240731_Picselweb_fotografieR3__0390-a5c1e282d794597632bf2a26b116d3df.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     top: 0vh;
     text-align: start;
+    margin-left:auto ;
+    margin-right: auto;
 }
-div{
-    font-size: 10%;
+.verschieben{
+    translate: 0rem -2rem;
+    font-size: 25%;
+    text-align: center;
+}
+.Überschrift{
+    text-align: center;
+}
+body{
+   background-color: #dad5d5;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
 }
