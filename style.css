@@ -3,16 +3,16 @@ h1 {
     font-family: "Comic Relief";
 }
 
-#box {
+.boxilein {
+    border-radius: 10%;
     border: 0.1rem solid;
     height: 26rem;
-    width: 75;
-    background-image: url(20240731_Picselweb_fotografieR3__0390-a5c1e282d794597632bf2a26b116d3df.jpg);
+    width: 50%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     top: 0vh;
-    text-align: start;
+    text-align: center;
     margin-left:auto ;
     margin-right: auto;
 }
@@ -29,4 +29,27 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover;
+}
+.smiley{
+    font-size: 700%;
+    translate: 0 25%;
+}
+.boxy{
+    translate: 0 50%;
+     border-radius: 10%;
+    border: 0.1rem solid;
+    height: 26rem;
+    width: 75%;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    top: 0vh;
+    text-align: center;
+    margin-left:auto ;
+    margin-right: auto;
+}
+.Empfehlung{
+    translate: 0 450%;
+    font-style: oblique;
 }
