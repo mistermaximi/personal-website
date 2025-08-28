@@ -40,16 +40,24 @@ body{
     border: 0.1rem solid;
     height: 26rem;
     width: 75%;
-    background-image: url();
+    background-image: url(rbkd_500.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     top: 0vh;
     text-align: center;
     margin-left:auto ;
     margin-right: auto;
     margin-top: 20%;
+    text-align: center;
 }
 #box2:hover{
-    transform:scale(1.1)
+    transform:scale(1.05)
+}
+h2{
+    font-size: 1000%;
+    color: rgba(255, 255, 255, 0);
+}
+div div div{
+    text-align: center;
 }
